@@ -63,8 +63,8 @@ MVC platform connecting restaurants with charitable organizations, covering dona
 ## GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehmostafa11&layout=compact&hide_border=true&hide=jupyter%20notebook" alt="Top languages" />
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=salehmostafa11&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salehmostafa11&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
